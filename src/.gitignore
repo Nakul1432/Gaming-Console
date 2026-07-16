@@ -1,0 +1,16 @@
+# Compiled Java Classes
+*.class
+*.jar
+
+# Launch4j Executables & Temporary Outputs
+*.exe
+.launch4j/
+config.xml
+
+# IDE Configs
+.idea/
+.vscode/
+*.iml
+bin/
+out/
+build/
